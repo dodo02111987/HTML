@@ -1,4 +1,3 @@
-<b:includable id='main'>
 <script type='text/javascript'>
 var disqus_shortname = 'dodo02111987';
 var disqus_blogger_current_url = "<data:blog.canonicalUrl/>";
@@ -34,4 +33,3 @@ bloggerjs.src = '//' + disqus_shortname + '.disqus.com/blogger_index.js';
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(bloggerjs);
 })();
 </script>
-</b:includable>
